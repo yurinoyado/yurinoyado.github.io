@@ -8,10 +8,5 @@
 <h2>6月1日にオープンします。<h2>
 
 <img src="https://imgur.com/3z9EafB.jpg" alt="ゲストハウス画像 1">
-            <img src="https://imgur.com/B26RgM0.jpg" alt="ゲストハウス画像 2">
-            <img src="https://imgur.com/G9PpEOT.jpg" alt="ゲストハウス画像 3">
-            <img src="https://imgur.com/7sSF1wW.jpg" alt="ゲストハウス画像 4">
 
-             <footer>
-        <p>Contact us at: +81  | Email: 2629842378@qq.com</p>
-    </footer>
+Contact us at: +81 7021001016  | Email: 2629842378@qq.com
