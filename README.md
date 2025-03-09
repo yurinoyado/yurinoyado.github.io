@@ -1,7 +1,7 @@
 ![标题1](https://img.shields.io/badge/welcome...to...my...homepage-ffcc00?style=for-the-badge)
 ![标题2](https://img.shields.io/badge/欢迎来到我的民宿主页-ffcc01?style=for-the-badge)
 ![标题3](https://img.shields.io/badge/私の民宿へようこそ-ffcc00?style=for-the-badge)
-</head>
+
 <body>
     <header>
         <h1>百合の宿 |（桃谷駅前館）</h1>
